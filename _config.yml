@@ -2,8 +2,8 @@ pygments: true
 auto: true
 
 # Set the title, tagline of the site
-title: Set title in _config.yml
-tagline: Set tagline in _config.yml
+title: Example Title
+tagline: Example Tagline
 
 # Where is the template located (if it's not in the root)
 # Remove the '#' from the next line and update the path if you have
@@ -36,7 +36,7 @@ bubblemap:
         How much is spent on the various functions of 
         government in total &mdash; and where?
     tree:
-        dataset: ukgov-finances-cra
+        dataset: bg_gov_spending
         cuts:
             - year:2010
         drilldowns:
