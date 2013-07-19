@@ -36,7 +36,7 @@ bubblemap:
         How much is spent on the various functions of 
         government in total &mdash; and where?
     tree:
-        dataset: bg_gov_spending
+        dataset: ukgov-finances-cra
         cuts:
             - year:2010
         drilldowns:
